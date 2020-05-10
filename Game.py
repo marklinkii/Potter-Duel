@@ -1,7 +1,12 @@
+# Potter Duel
+# Author: Mark Link II
+# Date: 12/02/19
+
 import pygame
 import random
 
 
+# Returns the awarded trophy amount given the winner and loser's current trophy count
 def getTrophyPlus(winner, loser):
     dif = winner - loser
     if dif > 10:
