@@ -25,4 +25,4 @@ Screenshots:
 ![](Screenshots/howtoplay.png)
 ![](Screenshots/duel.png)
 
-Note: I do not own any of the graphics or sound effects. I only own the code.
+Disclaimer: I do not own any of the graphics or sound effects. I do not own the rights to "Harry Potter". This project is not monetized in any way, and I do not intend on profiting from it. This is made purely for fun.
